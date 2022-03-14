@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-package-tools",
+    "name": "digiservnet/laravel-package-tools",
     "description": "Tools for creating Laravel packages",
     "keywords": [
         "spatie",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.3|^7.4|^8.0",
         "illuminate/contracts": "^7.0|^8.0|^9.0"
     },
     "require-dev": {
